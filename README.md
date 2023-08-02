@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/maciek5882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maciek5882" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/maciej sulikowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maciej sulikowski" height="30" width="40" /></a>
-<a href="https://fb.com/maciek sulikowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maciek sulikowski" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maciej-sulikowski-703542286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maciejsulikowski" height="30" width="40" /></a>
+<a href="https://fb.com/maciek.sulikowski.58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maciek sulikowski" height="30" width="40" /></a>
 <a href="https://instagram.com/suleymani_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suleymani_99" height="30" width="40" /></a>
 </p>
 
