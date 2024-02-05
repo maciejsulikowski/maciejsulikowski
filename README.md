@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **everything**
 
-- 📫 How to reach me **maciek5882@gmail.com**
+- 📫 How to reach me **maciejsulikowski99@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
