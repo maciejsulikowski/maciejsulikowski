@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **quiz-quest**
 
-- 🌱 I’m currently learning **Theory**
-
 - 💬 Ask me about **everything**
 
 - 📫 How to reach me **maciejsulikowski99@gmail.com**
